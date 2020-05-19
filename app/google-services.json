@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806133846191",
+    "firebase_url": "https://scientific-calculator-276dc.firebaseio.com",
+    "project_id": "scientific-calculator-276dc",
+    "storage_bucket": "scientific-calculator-276dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806133846191:android:a0baf09a6959e3a5d8045a",
+        "android_client_info": {
+          "package_name": "com.example.scientificcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806133846191-262rkfkbu8bl1nuotpgmr2uevdpc5eev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scientificcalculator",
+            "certificate_hash": "f20f526936981fe8534625777297c16e129bdfbe"
+          }
+        },
+        {
+          "client_id": "806133846191-lab5opoh38ahl0ojrjjd3ut8ushrqmip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuGUrzzNSRlST-iETDN4lCGabw5jDjCIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806133846191-lab5opoh38ahl0ojrjjd3ut8ushrqmip.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

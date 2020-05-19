@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Scientific Calculator</string>
+    <string name="log">log</string>
+    <string name="x">xⁿ</string>
+    <string name="root">√</string>
+    <string name="factorial">!</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="ln">ln</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="plus">+</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="sub">-</string>
+    <string name="c">C</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="multiply">×</string>
+    <string name="_0">0</string>
+    <string name="dot">.</string>
+    <string name="divide">÷</string>
+    <string name="equal">=</string>
+    <string name="todo">TODO</string>
+    <string name="small_bracket">()</string>
+    <string name="open">(</string>
+    <string name="close">)</string>
+    <string name="percent">%</string>
+    <string name="history">History</string>
+    <string name="scientific_world">Scientific World</string>
+    <string name="pp">^</string>
+    <string name="Cube">∛</string>
+    <string name="histry1">log(10)+In(10)+∛7+10% = 4.989986144962245</string>
+    <string name="history2nd">2+4+6x4-2+(1+2)=31.0</string>
+    <string name="histoty3">sin(10)+cos(10)+tan(20)=0.8540683042589201</string>
+    <string name="history4">2++++5=Error</string>
+</resources>
